@@ -1,7 +1,7 @@
-import react from '@vitejs/plugin-react'
 import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
 
-// https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
+  base: '/-Gas-Leak-Emergency-Ventilation-Emergency-Ventilation-Emergency-Ventilation-System/',
 })
